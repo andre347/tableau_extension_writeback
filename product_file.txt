@@ -1,0 +1,10 @@
+Product,Sales,Profit
+iPhone,500,400
+Nexus,300,200
+Samsung,200,430
+Pixel,350,50
+Huawai,225,300
+Nokia,200,570
+Nokai Lumia,340,800
+Galaxy S8,100,40
+iPhone X,900,670

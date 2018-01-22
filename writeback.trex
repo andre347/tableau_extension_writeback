@@ -1,0 +1,22 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<manifest manifest-version="0.1" 
+    xmlns="http://wwww.tableau.com/xml/extension_manifest">
+    <dashboard-extension id="com.theinformationlab.extensions.writeback" extension-version="1.0.0">
+        <default-locale>en_US</default-locale>
+        <name resource-id="name"></name>
+        <description>Write Back to Local File</description>
+        <author name="Andre de Vries" email="andre.devries@theinformationlab.co.uk" organization="The Information Lab" website="https://www.theinformationlab.co.uk"></author>
+        <min-api-version>1.1</min-api-version>
+        <source-location>
+            <url>http://localhost:3000/addData</url>
+        </source-location>
+        <icon>iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAQAAAD41aSMAAACCUlEQVR4Ae3cv+1OcRiH4ee3gcIADGAKhUIMoDWCjrz+l/aQmEKDMRS6VyIiUeio3nzjEOW5i3Ndzwb3p38GAAAAAAAAAADgAK7Po/k43+bnfJ63c2+uhh09mO/z64/7MDeHnbxc4dfNeW4NO3i1Cb/uSzCB/PEE8pugz2+CPr8J+vwm6POboM9vgj6/Cfr8Jujzm6DPb4I+vwn6/CYIBzCBCUxgAhMsJjjPjSGd4P1cDekEd4d0gjezwZ1dJ/g0/BX39Y4T/Bi2YXed4Dwb8u87wbvZkH/fCR7OIv/uE3yda3MhfzDB/bmQP5jg8VzIH0xwmgv5gwnkX+GCCeRf0YIJ5F/BggnkX7GCCeRfoYIJ5F+RggnkX4GCCeRfcYIJ5F9hggnkX1GCCeRfQYIJ5F8xggnkX/mTCVgfTfoJ5O8nkL+fQP5+AvnDCeQPJpA/mED+4G5PSP7TIL/8hyS//Mgvf0J+5Jc/IT/yy5+Qnxfyyx+QH/nlD8iP/PIH5H8yyC//IckvP/LLn5Af+eVPyI/88ifk57n88gfkR375A/Ijv/wB+Z8O8st/SPLLj/zyJ+RHfvkT8iO//BH5kT8mf0z+mPwx+WPyx+SPyX+IAZ4N/yZ/Tf6Y/DH5Y/LH5I/JH5M/Jn9M/pj8Mflj8sfkj8kfkz8mf0z+mPwx+WPyAwAAAAAAAAAA/NdvHU8OU2CKoxcAAAAASUVORK5CYII=</icon>
+    </dashboard-extension>
+    <resources>
+        <resource id="name">
+            <text locale="en_US">Write_Back</text>
+            <text locale="fr_BE">Write_Back</text>
+            <text locale="de_DE">Write_Back</text>
+        </resource>
+    </resources>
+</manifest>
