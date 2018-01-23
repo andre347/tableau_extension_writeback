@@ -2,7 +2,7 @@ Tableau Extension API: Write Back to Local File
 =====================================
 Created by [Andre de Vries](https://www.twitter.com/andre347_) (22nd Jan 2018)
 
-####  **The Tableau Extension API is still in Development and therefore will contain bugs and should only be deployed when it has been released. This is solely for testing purposes.**
+####  **The Tableau Extension API is still in Development and therefore will contain bugs and should only be deployed when it has been released. This is solely for testing purposes. Please report any bugs straight to Tableau**
 
 Example Tableau Extension to write back to the source data. In this case a local text file.
 
