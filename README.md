@@ -24,5 +24,7 @@ node app.js
 ```
 npm start
 ```
-5. Open the Write Back Workbook.twb file and add the Extension to the Dashboard
+5. Open the Write Back Workbook.twb file, or create a new workbook with the product_file.txt as the data source. Add the Extension to the Dashboard.
+
+NOTE: No web authentication added, nor checks on the correctness of the input of the data. This is just an example extension of writing back to a data source.
 
