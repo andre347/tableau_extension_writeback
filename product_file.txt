@@ -8,3 +8,6 @@ Nokia,200,570
 Nokai Lumia,340,800
 Galaxy S8,100,40
 iPhone X,900,670
+new phone,900,960
+new producce,2000,4000
+hello,1000,2100
